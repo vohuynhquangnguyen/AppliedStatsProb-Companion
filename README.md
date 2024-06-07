@@ -5,6 +5,7 @@ This is the companion to the book "Applied Statistics and Probability for Engine
 
 ## Contents
 | Chapter | Viewer |
+|---------|--------|
 | Chapter 1 | |
 | Chapter 2 | |
 | Chapter 3 | |
